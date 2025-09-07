@@ -56,6 +56,7 @@ Let’s make this a go-to Python learning resource together!
 If this repo helped you, please star ⭐ it on GitHub your support motivates me to keep adding more content!
 
 ## Author
+
 Garima Sethi
 Email: garimasethi0022@gmail.com
 
