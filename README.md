@@ -57,7 +57,6 @@ If this repo helped you, please star ⭐ it on GitHub your support motivates me 
 
 ## Author   
 Garima Sethi    
-Email: garimasethi0022@gmail.com
- 
+Email: garimasethi0022@gmail.com    
 LinkedIn: https://www.linkedin.com/in/garima-sethi-4b7275280/
 Let's connect! 
