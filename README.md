@@ -37,7 +37,7 @@ Whether you’re just starting with Python or revisiting concepts, this repo is 
 
 1. Clone the repo:
     ```bash
-   git clone https://github.com/<your-username>/<your-python-repo>.git
+   git clone https://github.com/garima342/Python-Programs-Collection.git
 
 2. Open any .py file in your favorite editor (VS Code, PyCharm, etc.).
 3. Run the program:
@@ -61,5 +61,3 @@ Email: garimasethi0022@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/garima-sethi-4b7275280/
 Let's connect! 
-   ```bash
-   git clone https://github.com/<your-username>/<your-python-repo>.git
